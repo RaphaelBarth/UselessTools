@@ -7,7 +7,7 @@ COLOR = 2
 phrases = [
     {
         TEXT: f"you got hacked !!\n pay {random.randint(0,1_000_000)}$ to get pack your computer",
-        AUTHOR: "",
+        AUTHOR: "Anonymous Hacker",
         COLOR: "red",
     },
     {
@@ -25,6 +25,16 @@ phrases = [
         AUTHOR: "Michael Ian Black",
         COLOR: "dodger blue",
     },
+    {
+        TEXT: "I told my computer I needed a break,\nand now it won't stop sending me to the beach.",
+        AUTHOR: "Techie Humor",
+        COLOR: "light sea green",
+    },
+    {
+        TEXT: "Why don't scientists trust atoms?\nBecause they make up everything!",
+        AUTHOR: "Science Jokes",
+        COLOR: "medium orchid",
+    }
 ]
 
 
